@@ -1,0 +1,1 @@
+# PostgreSQL에서 Elastic Search에 적재하기 위한 변환 과정

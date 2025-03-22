@@ -1,0 +1,1 @@
+# Prometheus Metric 수집을 위한 로직
