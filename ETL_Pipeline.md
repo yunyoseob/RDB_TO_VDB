@@ -79,7 +79,7 @@ select code_group_name, code_name
 
 |code_group_name|code_name|
 |--|--|
-|doc|2025-03-23 00:00:00.000|
+|doc|2025-03-24 00:00:00.000|
 
 모든 검증이 끝나면, vdb_load_status 테이블에 해당 과정 "validation" 완료 된 내용을 업데이트
 
@@ -118,7 +118,3 @@ Target DB에 Insert 작업 수행
 모든 검증이 끝나면, vdb_load_status 테이블에 해당 과정 "load" 완료 된 내용을 업데이트
 
 검증 과정 오류 시, vdb_load_status 테이블에 해당 과정 "load" 실패 된 내용을 Update 및 vdb_load_err 테이블에 오류 내용 Insert
-
-
-
-
