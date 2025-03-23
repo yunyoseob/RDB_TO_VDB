@@ -23,6 +23,7 @@ RDB_TO_VDB/
 │   └── Dockerfile # Airflow 커스텀 이미지 추가
 ├── src/
 │   ├── etl/
+|   |   |── validation.py
 │   │   ├── extract.py
 │   │   ├── transform.py
 │   │   └── load.py
